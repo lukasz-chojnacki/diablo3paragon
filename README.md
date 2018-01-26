@@ -1,3 +1,3 @@
 ## SEZON.DIABLO.OVH
 
-**[SEZON.DIABLO.OVH: Najważniejsze informacje o sezonach w Diablo III](http://sezon.diablo.ovh/)**
+**[PARAGON.DIABLO.OVH: Kalkulator poziomów mistrzowskich w Diablo III](http://paragon.diablo.ovh/)**
